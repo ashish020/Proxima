@@ -1,0 +1,10 @@
+Below Packages are required to execute the assistant
+ 1. speech_recognition 
+ 2. os
+ 3. openai
+ 4. pyttsx3
+ 5. random
+
+Tips :
+- Better to use pycharm as an IDE
+- Before executing add your API key from OpenAI and then execute.
